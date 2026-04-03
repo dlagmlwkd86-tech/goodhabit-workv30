@@ -83,3 +83,4 @@ Vite + React / Supabase / Gemini / Vercel / PWA / Web Push
 ## 로그인 방식
 - 로그인 화면에서 먼저 코치를 선택한 뒤 4자리 PIN을 입력합니다.
 - 서버는 coach_id + bcrypt PIN 해시를 기준으로 검증하며, 과거 SHA-256 해시는 첫 로그인 성공 시 자동으로 bcrypt로 업그레이드합니다.
+v31 redeploy
